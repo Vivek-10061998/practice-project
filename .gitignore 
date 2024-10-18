@@ -1,0 +1,17 @@
+# Node.js (Backend)
+backend/node_modules/
+backend/npm-debug.log*
+backend/yarn-debug.log*
+backend/yarn-error.log*
+backend/.env
+
+# Angular/React (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/npm-debug.log*
+frontend/yarn-error.log*
+frontend/.env
+
+# OS-specific files
+.DS_Store        # macOS system file
+Thumbs.db        # Windows system file
